@@ -42,7 +42,7 @@ public class Mysz extends ApplicationAdapter {
 
 	private ShapeRenderer shapeRenderer;
 	private Sound coinSound;
-	private Screen endScreen;
+	//private Screen endScreen;
 
 
 
